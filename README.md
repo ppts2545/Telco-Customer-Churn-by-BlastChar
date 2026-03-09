@@ -72,4 +72,20 @@ pip install -r requirements.txt
 - Store model files in `models/` and plots in `reports/figures/`.
 - Move obsolete experiments to `archive/`.
 
+## 7) Text Encoding Policy (Important)
+
+To prevent Thai/Unicode text corruption (mojibake), this project enforces UTF-8 workflow:
+
+- VS Code is configured to use UTF-8 (`.vscode/settings.json`).
+- Git text normalization is enforced via `.gitattributes`.
+- Editor defaults are enforced via `.editorconfig`.
+
+Before pushing changes, run:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/check_mojibake.ps1
+```
+
+If the script reports files, fix the text before commit.
+
 
