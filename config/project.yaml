@@ -1,0 +1,7 @@
+project_name: telco-customer-churn
+owner: data-analyst
+version: 1.0.0
+problem_type: classification
+target_column: Churn
+raw_data_file: data/raw/telco_customer_churn.csv
+processed_data_file: data/processed/telco_customer_churn_clean.csv
