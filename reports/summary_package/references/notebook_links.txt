@@ -1,0 +1,28 @@
+NOTEBOOK AND DOCUMENT LINKS
+
+Main summary docs
+- docs/business_understanding.md
+- docs/business_recommendation.md
+
+Recommended analysis notebooks
+- notebooks/01_data_understanding/01_data_overview.ipynb
+- notebooks/01_data_understanding/02_data_quality.ipynb
+- notebooks/02_data_preparation/01_business_rules_validation.ipynb
+- notebooks/02_data_preparation/02_feature_engineering.ipynb
+- notebooks/03_exploratory_analysis/eda 1/01_univariate_distribution.ipynb
+- notebooks/03_exploratory_analysis/eda 1/02_eda_charges.ipynb
+- notebooks/03_exploratory_analysis/eda 1/03_eda_age_gender.ipynb
+- notebooks/03_exploratory_analysis/eda 1/04_eda_contract_features.ipynb
+- notebooks/03_exploratory_analysis/eda 2/05_eda_InternetService.ipynb
+- notebooks/03_exploratory_analysis/eda 2/06_eda_exclusive_internetFeature.ipynb
+- notebooks/03_exploratory_analysis/eda 2/07_eda_papaerBilling.ipynb
+- notebooks/03_exploratory_analysis/eda 2/08_eda_MultipleLine.ipynb
+- notebooks/04_statistical_analysis/01_hypothesis_testing.ipynb
+- notebooks/05_modeling/01_model_logistic_regression.ipynb
+- notebooks/05_modeling/02_model_random_forest.ipynb
+- notebooks/06_evaluation/01_model_evaluation.ipynb
+- notebooks/07_analysis/churn_statistical_check.ipynb
+- notebooks/07_analysis/model_validation.ipynb
+
+How to cite
+- Add short bullet: [source notebook] + [cell/section note] + [key number]

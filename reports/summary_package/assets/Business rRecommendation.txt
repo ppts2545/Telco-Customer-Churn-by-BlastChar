@@ -1,0 +1,146 @@
+Business Insights – Customer Churn Analysis
+
+Dataset: Telco Customer Churn
+
+---
+
+## Insight 1: Paperless Billing Behavior
+
+Customers who do not use paperless billing tend to have no internet service.
+These customers usually subscribe to fewer services and therefore have lower
+monthly charges.
+
+As a result, this customer segment shows a lower churn rate compared to
+customers who use paperless billing.
+
+Business Interpretation:
+Low-service customers have lower costs and fewer active services,
+which may reduce the likelihood of churn.
+
+---
+
+## Insight 2: Internet Service Dependency
+
+Customers without internet service do not subscribe to streaming services
+such as StreamingTV or StreamingMovies.
+
+This confirms that the dataset follows the expected business logic:
+streaming services require an active internet service.
+
+Business Interpretation:
+Streaming services are dependent features tied to internet subscriptions.
+
+---
+
+## Insight 3: Internet Service and Churn Risk
+
+Customers who subscribe to internet services show a higher churn rate
+compared to customers who only use phone services.
+
+Internet subscriptions typically involve higher monthly charges due to
+additional services such as streaming or higher bandwidth plans.
+
+Business Interpretation:
+Higher service costs may increase churn risk, especially when customers
+perceive the price as too high relative to the value received.
+
+---
+
+## Insight 4: Monthly Charges and Customer Tenure
+
+Monthly charges and customer tenure appear to be key factors associated
+with churn behavior.
+
+Customers with higher monthly charges tend to churn more frequently,
+while customers with longer tenure generally show lower churn rates.
+
+Business Interpretation:
+Customers who stay longer with the company become more stable and loyal,
+while high monthly costs may increase dissatisfaction and churn risk.
+
+---
+
+## Insight 5: Contract Length and Churn
+
+Contract type is strongly related to churn behavior.
+
+Customers with shorter contracts (such as month-to-month) tend to have
+significantly higher churn rates compared to customers with longer
+contracts (one-year or two-year agreements).
+
+Business Interpretation:
+Short-term contracts provide flexibility for customers to leave easily,
+while longer contracts help improve customer retention.
+
+---
+
+## Conclusion
+
+Customer churn is influenced by a combination of service usage, pricing,
+and contract structure.
+
+Customers with more services (especially internet) tend to have higher
+monthly costs and a greater risk of churn, while long-term contracts and
+longer customer tenure are associated with stronger retention.
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+## Business Recommendations
+
+1. Encourage Long-Term Contracts
+   Customers with month-to-month contracts show significantly higher churn
+   rates compared to those with one-year or two-year contracts.
+
+Recommendation:
+Offer incentives such as discounts or bundled service benefits to
+encourage customers to switch to longer-term contracts. This can help
+improve customer retention and reduce churn risk.
+
+---
+
+2. Reduce Price Sensitivity for High Monthly Charges
+   Customers with higher monthly charges tend to churn more frequently,
+   especially among those using internet services.
+
+Recommendation:
+Introduce bundled service packages or loyalty discounts for customers
+with higher monthly charges. Providing additional value may help reduce
+price sensitivity and improve customer satisfaction.
+
+---
+
+3. Focus on Retaining Internet Service Customers
+   Customers who subscribe to internet services have a higher churn rate
+   compared to customers who only use phone services.
+
+Recommendation:
+Improve service quality, customer support, and value-added features
+for internet users. Enhancing the perceived value of internet services
+can help reduce churn among this important customer segment.
+
+---
+
+4. Strengthen Early Customer Retention
+   Customers with shorter tenure tend to have a higher churn rate,
+   suggesting that new customers are more likely to leave.
+
+Recommendation:
+Implement early-stage retention strategies such as onboarding support,
+promotional offers, or loyalty incentives during the first months of
+service to increase long-term customer commitment.
+
+---
+
+5. Maintain Stability of Low-Service Customers
+   Customers who do not use paperless billing often have fewer services
+   and lower monthly charges, and they tend to churn less frequently.
+
+Recommendation:
+Maintain competitive pricing and simple service plans for this
+low-service segment to preserve their loyalty and prevent unnecessary
+churn.
+
+---
